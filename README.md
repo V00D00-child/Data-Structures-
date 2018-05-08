@@ -1,2 +1,2 @@
 # My-Projects
-This contains a muntiple project in Java that I have been working on while in college.
+This repository contains a variety of the most commonly used data structures. Includes object-oriented data structures, including linked lists, stacks, queues, trees, heaps, graphs, and hashing schema
