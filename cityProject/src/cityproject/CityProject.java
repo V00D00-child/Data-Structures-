@@ -98,10 +98,10 @@ public class CityProject {
 
         if(option.equals("s")){
             // get the user’s source cities with an input dialog window 
-        userSource = JOptionPane.showInputDialog("Please enter a source city");
+        userSource = JOptionPane.showInputDialog("Please enter a source city followed by the state initials");
         }else{
           // get the user’s destination cities with an input dialog window 
-        userSource = JOptionPane.showInputDialog("Please enter a destination city");  
+        userSource = JOptionPane.showInputDialog("Please enter a destination city followed by the state initials");  
         }
         
 
