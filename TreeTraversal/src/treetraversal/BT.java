@@ -2,7 +2,7 @@
  * This is the binary tree class
 * This class has a root Node, height, and size property
 * It has a method to add Nodes to the Tree object, method to 
-* Traverse the tree, and a method to fibd the min and max vaule in the tree.
+* Traverse the tree, and a method to find the min and max vaule in the tree.
  */
 package treetraversal;
 
